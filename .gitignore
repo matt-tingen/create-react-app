@@ -1,5 +1,6 @@
 .idea/
 .vscode/
+!packages/react-scripts/template/.vscode/
 node_modules/
 build
 .DS_Store

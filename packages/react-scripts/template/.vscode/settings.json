@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.options": {
+    "configFile": "node_modules/eslint-config-react-app/index.js"
+  }
+}
